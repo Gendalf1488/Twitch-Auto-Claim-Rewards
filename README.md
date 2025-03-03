@@ -10,4 +10,6 @@ Click on Download the unpacked version to download the extension from your compu
 Find the extensions folder (unpacked extension).
 Click on the folder to install the extension manually.
 3. Everything is ready, you have an extension!Pin it as usual in the row on the top right and use it to your heart's content.
+
+
 Be careful, I am a developer from Russia and the entire interface is in Russian, but it does not matter how the extension works, the main thing is when you install the extension, activate it with the first button. The second button is responsible for resetting the reward counter.
