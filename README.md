@@ -13,3 +13,5 @@ Click on the folder to install the extension manually.
 
 
 Be careful, I am a developer from Russia and the entire interface is in Russian, but it does not matter how the extension works, the main thing is when you install the extension, activate it with the first button. The second button is responsible for resetting the reward counter.
+
+Download only the latest release!
