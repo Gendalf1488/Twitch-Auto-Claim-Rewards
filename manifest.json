@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Twitch Auto Claim Rewards",
+  "version": "1.0",
+  "description": "Автоматический сборщик наград на Twitch.",
+  "permissions": [
+    "tabs",
+    "activeTab",
+    "scripting",
+    "storage" // Добавляем это разрешение
+  ],
+  "host_permissions": [
+    "https://www.twitch.tv/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
